@@ -1,0 +1,2 @@
+# photomaton
+Web based photomaton
